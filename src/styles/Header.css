@@ -1,0 +1,13 @@
+.Header {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr 1fr;
+  align-items: center;
+  width: 95%;
+  padding: 10px;
+  gap: 10px;
+}
+
+.Header img {
+  height: 8vh;
+  object-fit: contain;
+}

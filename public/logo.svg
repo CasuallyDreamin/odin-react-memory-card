@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Philosopher’s Node</title>
+  <!-- Hexagon -->
+  <polygon points="100,30 160,65 160,135 100,170 40,135 40,65" 
+           stroke="currentColor" stroke-width="8" fill="black" color="white"/>
+  <!-- Central node -->
+  <circle cx="100" cy="100" r="16" fill="white"/>
+</svg>
